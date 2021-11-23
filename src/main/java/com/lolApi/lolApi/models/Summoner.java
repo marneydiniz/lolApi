@@ -15,6 +15,6 @@ public class Summoner {
 	private long summonerLevel;
 	private long revisionDate;
 	
-	private List<String> matches;
+	private List<Match> matches;
 	
 }
